@@ -1,0 +1,15 @@
+
+		---CABINS---
+
+No: 0cabin is occupied by e.
+No:	1 cabin is occupied by  , RASARA JAYAWARDENE , KISAL GITHIMINA.
+No: 2cabin is occupied by e.
+No: 3cabin is occupied by e.
+No: 4cabin is occupied by e.
+No:	5 cabin is occupied by  , SANUVI LOKUGAMAGE , ISHARA DISSANAYAKA , SHANUKA HENNAYAKA.
+No: 6cabin is occupied by e.
+No: 7cabin is occupied by e.
+No:	8 cabin is occupied by  , SHEHAN DISSANAYAKA , MALISHA THEJAN , DILSHAN MANAHARA.
+No: 9cabin is occupied by e.
+No: 10cabin is occupied by e.
+No: 11cabin is occupied by e.
